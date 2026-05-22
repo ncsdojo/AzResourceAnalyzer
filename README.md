@@ -1,7 +1,5 @@
 # AzResourceAnalyzer
 
-Copyright (c) NCS Dojo. All Rights Reserved.
-
 PowerShell 7 module for Azure resource collection and posture assessment.
 
 ## Install
